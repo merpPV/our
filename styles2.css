@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    padding: 50px 0 0 0;
+    margin: 20px 0 0 0;
+    color: rgb(0, 0, 0);
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(240, 79, 232);
+    text-align: center;
+    padding: 10px 0;
+    a {
+        color: white;
+        text-decoration: none;
+        padding: 0 20px;
+    }
+}
+.mersweb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
