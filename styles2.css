@@ -41,4 +41,6 @@ nav {
     justify-content: center;
     align-items: center;
     margin: 10px 0;
+    flex-wrap: nowrap;
+    flex-direction: column;
 }
